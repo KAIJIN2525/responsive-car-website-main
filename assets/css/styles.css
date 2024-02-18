@@ -182,6 +182,7 @@ img {
     width: 100%;
     height: 100%;
     backdrop-filter: blur(96px);
+    -webkit-backdrop-filter: blur(96px);
     transition: .3s;
 
   }
